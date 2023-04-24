@@ -3,7 +3,7 @@ layout: default
 title: "Ian's Site"
 ---
 
-## Tools
+## Tools I like and some that I pay for
 
 ### Grammarly - [grammarly.com](https://grammarly.com)
 I pay $144 a year for Premium and use it every day. I primarily use it in Gmail, Notion, Slack, and HubSpot. It works well with local clients and web clients. I wish Grammarly had native Vim support, and I may have missed something to configure it, so for now, I use Vale as my style-enforcer and then fix up things like tone, grammar, and clarity with the Grammarly web editor.
@@ -44,3 +44,7 @@ Cron is currently invite-only, but it has been a good tool for a calendar client
 
 ### Sidekick - [sidekick.com](https://www.meetsidekick.com/)
 I do not pay for Sidekick, but I've considered it several times. Seeing the value in a Chromium wrapper is easier if you use dozens of SaaS tools daily. It's mostly to use something other than pinned tabs for things like Gmail, Gcal, and HubSpot.
+
+### Pitch - [pitch.com](https://pitch.com/)
+I do not pay for Pitch, but I would if I was on a larger team and doing many slide-based demos. It is much better than the typical slideshow apps installed on your OS.
+
