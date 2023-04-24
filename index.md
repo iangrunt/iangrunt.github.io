@@ -48,3 +48,11 @@ I do not pay for Sidekick, but I've considered it several times. Seeing the valu
 ### Pitch - [pitch.com](https://pitch.com/)
 I do not pay for Pitch, but I would if I was on a larger team and doing many slide-based demos. It is much better than the typical slideshow apps installed on your OS.
 
+## Tools I've failed at using
+
+### Amethyst - [ianyh.com](https://ianyh.com/amethyst/)
+I could not find a use for this window manager (or any window manager). The native Mac OS window-splitting and multiple desktops functionality has worked best for me.
+
+### Obsidian - [obsidian.md](https://obsidian.md/)
+Obsidian is a great note-taking tool, but this minor Vim annoyance has prevented me from fully adopting it: https://forum.obsidian.md/t/vim-o-and-o-should-respect-understand-current-context/48386.
+
