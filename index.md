@@ -9,7 +9,7 @@ title: "Ian's Site"
 I pay $144 a year for Premium and use it every day. I primarily use it in Gmail, Notion, Slack, and HubSpot. It works well with local clients and web clients. I wish Grammarly had native Vim support, and I may have missed something to configure it, so for now, I use Vale as my style-enforcer and then fix up things like tone, grammar, and clarity with the Grammarly web editor.
 
 ### Vale - [vale.sh](https://vale.sh/)
-Even though Grammarly doesn't work with Vim, I continue to use Vale as my primary helper for technical writing. I have it configured to run each time I write on text and Markdown files:
+Even though Grammarly doesn't work with Vim, I continue to use Vale as my primary helper for technical writing. I have it configured to run each time I `:w` text and Markdown files:
 
   ```
   " .vimrc
