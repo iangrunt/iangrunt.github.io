@@ -1,2 +1,2 @@
 # iangrunt.github.io
-Ian's page
+GitHub repository for https://iangrunt.github.io/.
