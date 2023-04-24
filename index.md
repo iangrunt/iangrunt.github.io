@@ -20,7 +20,7 @@ Even though Grammarly doesn't work with Vim, I continue to use Vale as my primar
 Most documentation I write takes place inside Vim. Since the audience for that documentation will be technical readers, Vale is the correct tool for the job because I use the ecosystem of extensions to keep my style consistent.
 
 ### Alfred - [alfredapp.com](https://www.alfredapp.com/)
-I don't pay for Alfred, and I'm still on Alfred 4, but it is a beautiful tool. The free version allows you to intuitively query websites, like GitHub.com and others, all from the keyboard.
+I don’t pay for Alfred, and I’m still on Alfred 4, but it is a beautiful tool. The free version lets you quickly query websites, like GitHub.com and others, all from the keyboard.
 
 The "Web Search" feature is included for free and allows me to do things like search the Gruntwork Knowledge Base quickly. For example, my shortcut in Alfred is configured like this:
 
@@ -29,6 +29,7 @@ The "Web Search" feature is included for free and allows me to do things like se
   ```
 
 And is assigned the keyword `kb`. So I can hit `option+space`, type `kb `, and then whatever terms I want to query, like "EKS." The search term appends to that URL I configured in place of `{query}`  and will bring me directly to the search results. Multiply this by every website you have to type keywords into a search bar for, and you'll begin to love the experience.
+
 
 ### Oxford English Dictionary - [oed.com](https://www.oed.com/)
 I pay for Oxford English Dictionary access to confirm I'm correctly using words with multiple definitions and interpretations.
