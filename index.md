@@ -42,3 +42,5 @@ I pay for ScreenFlow and have found it satisfactory in recording myself doing de
 ### Cron - [cron.com](https://cron.com/)
 Cron is currently invite-only, but it has been a good tool for a calendar client over the Google Calendar website. I hope they begin work on an email client, because I do miss the Outlook on Windows experience.
 
+### Sidekick - [sidekick.com](https://www.meetsidekick.com/)
+I do not pay for Sidekick, but I've considered it several times. Seeing the value in a Chromium wrapper is easier if you use dozens of SaaS tools daily. It's mostly to use something other than pinned tabs for things like Gmail, Gcal, and HubSpot.
