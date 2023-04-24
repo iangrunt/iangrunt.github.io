@@ -24,7 +24,7 @@ Most documentation I write takes place inside Vim. Since the audience for that d
 ### Alfred - [alfredapp.com](https://www.alfredapp.com/)
 I don’t pay for Alfred, and I’m still on Alfred 4, but it is a beautiful tool. The free version lets you quickly query websites, like GitHub.com and others, all from the keyboard.
 
-The "Web Search" feature is included for free and allows me to do things like search the Gruntwork Knowledge Base quickly. For example, my shortcut in Alfred is configured like this:
+The "Web Search" feature is included for free and allows me to do things like search the Gruntwork Knowledge Base quickly. For example, my shortcut in Alfred for that specific usage is configured like this:
 
   ```
   https://github.com/gruntwork-io/knowledge-base/discussions?discussions_q={query}
