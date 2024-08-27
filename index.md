@@ -3,7 +3,7 @@ layout: default
 title: "Ian's Site"
 ---
 
-## Tools I like, and even some that I pay for! 
+## Tools I like, and even some that I pay for
 
 ### Grammarly - [grammarly.com](https://grammarly.com)
 I pay $144 a year for Premium and use it every day. I primarily use it in Gmail, Notion, Slack, and HubSpot. It works well with local clients and web clients. I wish Grammarly had native Vim support, and I may have missed something to configure it, so for now, I use Vale as my style-enforcer and then fix up things like tone, grammar, and clarity with the Grammarly web editor.
@@ -65,6 +65,13 @@ I could not find a use for this window manager (or any window manager). The nati
 
 ### Obsidian - [obsidian.md](https://obsidian.md/)
 Obsidian is a great note-taking tool, but this minor Vim annoyance has prevented me from fully adopting it: https://forum.obsidian.md/t/vim-o-and-o-should-respect-understand-current-context/48386.
+
+### Scratch pad while migrating to a new machine
+Ack
+Glow
+fzf
+lsd
+mono nerdfont
 
 ## Tools I no longer use
 
